@@ -1,3 +1,14 @@
+/*
+============================================
+; Title:  app.js
+; Author: Professor Krasso
+; Date: 14 August 2022
+; Modified By: Patrick Wolff
+; Description: Main server file for the 
+; assignments in WEB 420 RESTful APIs
+;===========================================
+*/
+
 const express = require('express');
 const http = require('http');
 const swaggerUi = require('swagger-ui-express');
